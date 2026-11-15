@@ -5,7 +5,7 @@
 <div align="center">
 
 [![이력서](https://img.shields.io/badge/이력서-8E82C4?style=for-the-badge&logoColor=white)](https://ajinn0830.github.io/ajinn0830/)
-[![Email](https://img.shields.io/badge/ajinn0830@gmail.com-FBD9CE?style=for-the-badge&logo=gmail&logoColor=4A4458)](mailto:ajinn0830@gmail.com)
+<a href="mailto:ajinn0830@gmail.com"><img src="https://img.shields.io/badge/ajinn0830@gmail.com-FBD9CE?style=flat-square&logo=gmail&logoColor=4A4458" height="28" alt="Email" /></a>
 
 </div>
 
