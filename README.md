@@ -89,6 +89,6 @@
 | 프로젝트 | 스택 | 요약 |
 |---|---|---|
 | **[KNOWVA](https://github.com/hyunkyumlee/Acorn-E-Learning)**<br/><sub>`팀 7명` · `2026.06 ~ 07`</sub> | Java · Spring Boot<br/>MyBatis · MySQL | **learning 도메인 담당.**<br/>행성을 하나씩 밟아 진도를 쌓는 코딩 학습 로드맵 |
-| **[Popflix](https://github.com/ajinn0830/webProj_Popflex)**<br/><sub>`팀 5명` · `2026.05`</sub> | Java · Servlet/JSP<br/>Oracle | **필름 다이어리 모듈 · DB 설계 담당.**<br/>영화 예매와 관람 기록을 묶은 서비스 |
+| **[Popflix](https://github.com/ajinn0830/webProj_Popflix)**<br/><sub>`팀 5명` · `2026.05`</sub> | Java · Servlet/JSP<br/>Oracle | **필름 다이어리 모듈 · DB 설계 담당.**<br/>영화 예매와 관람 기록을 묶은 서비스 |
 | **[pokemonJava](https://github.com/ajinn0830/pokemonJava)**<br/><sub>`팀 4명` · `2026.03`</sub> | Java · Swing<br/>Gradle | **전체 설계 주도 · 배틀/상성 엔진 담당.**<br/>18타입 상성표를 직접 설계한 턴제 배틀 |
 | **[Pokemon With](https://github.com/ajinn0830/Pokemon_With)**<br/><sub>`개인` · `2026.06 ~ 진행 중`</sub> | TypeScript · Phaser 3<br/>Electron | **단독 개발.**<br/>게임 엔진 없이 만드는 2D 타일 RPG. 원작 대조 픽셀 검증 파이프라인 자체 구축 |
