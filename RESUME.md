@@ -8,7 +8,7 @@
 최근 두 직장 연속 2년 2개월 근속 · 두 곳 모두 승진 · 팀 프로젝트 4개 경험
 
 [![Email](https://img.shields.io/badge/lastsummer0830@gmail.com-FBD9CE?style=flat-square&logo=gmail&logoColor=4A4458)](mailto:lastsummer0830@gmail.com)
-[![GitHub](https://img.shields.io/badge/lastsummer0830-D6CFF0?style=flat-square&logo=github&logoColor=4A4458)](https://github.com/lastsummer0830)
+[![GitHub](https://img.shields.io/badge/ajinn0830-D6CFF0?style=flat-square&logo=github&logoColor=4A4458)](https://github.com/ajinn0830)
 [![Profile](https://img.shields.io/badge/프로필_README-C5E5D8?style=flat-square&logo=readme&logoColor=4A4458)](./README.md)
 
 </div>
@@ -139,7 +139,7 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/lastsummer0830@gmail.com-FBD9CE?style=flat-square&logo=gmail&logoColor=4A4458)](mailto:lastsummer0830@gmail.com)
-[![GitHub](https://img.shields.io/badge/lastsummer0830-D6CFF0?style=flat-square&logo=github&logoColor=4A4458)](https://github.com/lastsummer0830)
+[![GitHub](https://img.shields.io/badge/ajinn0830-D6CFF0?style=flat-square&logo=github&logoColor=4A4458)](https://github.com/ajinn0830)
 
 <sub>읽어 주셔서 감사합니다. 궁금한 점은 언제든 메일로 연락 주세요 :)</sub>
 
